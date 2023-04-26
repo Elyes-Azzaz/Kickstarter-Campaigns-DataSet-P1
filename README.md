@@ -1,5 +1,7 @@
 # Kickstarter-Campaigns-DataSet-P1
 The main objective of the project is to classify successful/failed projects
+
+
 Agenda:
 1.	Project description
 2.	Data source and potential limitations
@@ -14,7 +16,8 @@ Agenda:
 -The application domain of the project is crowdfunding for creative and innovative projects. 
 -The different types of data available in the Kickstarter database include information about projects such as:
  [title, description, category, amount requested, campaign duration, currency used, launch and end date of the campaign, number of contributors usw.
--The data was collected by ‘Kaggle’ and ‘web robot ‘.
+The data was collected by  Kaggle = ' https://www.kaggle.com/code/yaelgesser/kickstarter-projects-success-predictions/input '
+and ‘web robot ‘. https://webrobots.io/kickstarter-datasets/
 
 
 2	Data source and potential limitations:

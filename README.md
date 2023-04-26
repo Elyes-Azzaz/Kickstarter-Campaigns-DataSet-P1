@@ -31,17 +31,11 @@ There are potential data limitations including.
 
 The different factors that can influence the results of the project include:
 -the project category : (film and video , music , art , technology….
-
 -the amount requested (How much money does this project need.. 
-
 -the campaign duration (How much time does the project take per day?
-
 -the currency used (dollars or euro or pound……)
-
 -the time of year (The right time of year for a successful project…
-
 -the launching country 
-
 -the number of contributors and the creator's previous success on Kickstarter.
 
 

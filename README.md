@@ -1,4 +1,4 @@
-Test
+
 # Kickstarter-Campaigns-DataSet-P1
 The main objective of the project is to classify successful/failed projects
 
@@ -11,7 +11,7 @@ Agenda:
 5.	Data cleaning and preprocessing
 
 
-1	Project description
+1.Project description
 
 -The main objective of the project is to classify successful/failed projects on Kickstarter based on crawled database
 -The application domain of the project is crowdfunding for creative and innovative projects. 
@@ -21,14 +21,14 @@ The data was collected by  Kaggle = ' https://www.kaggle.com/code/yaelgesser/kic
 and ‘web robot ‘. https://webrobots.io/kickstarter-datasets/
 
 
-2	Data source and potential limitations:
+2.Data source and potential limitations:
 
 There are potential data limitations including.
 - the possibility of fraudulent projects. (Ex: a project that called twice)
 -missing or incomplete information.
 -differences in visibility, popularity number of contributors. (a project is very popular it does not mean that a good project)
 
-3	Factors that influence the results.
+3.Factors that influence the results.
 
 The different factors that can influence the results of the project include:
 -the project category : (film and video , music , art , technology….

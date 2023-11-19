@@ -24,20 +24,19 @@ and Web Robot (https://webrobots.io/kickstarter-datasets/)
 2)Data source and potential limitations
 
 There are potential data limitations including:
--The possibility of fraudulent projects. (Ex: a project that called twice)
--Missing or incomplete information.
--Differences in visibility, popularity number of contributors. (a project is very popular it does not mean that a good project)
+The possibility of fraudulent projects(Ex: a project that called twice).
+Missing or incomplete information.
+Differences in visibility, popularity number of contributors (a project is very popular it does not mean that a good project).
 
 3)Factors that influence the results
 
 The different factors that can influence the results of the project include:
--The project category: (film and video , music , art , technology etc)
--The amount requested: (How much money does this project need)
--The campaign duration: (How much time does the project take per day?)
--The currency used: (dollars or euro or pound)
--The time of year: (The right time of year for a successful project)
--The launching country. 
--The number of contributors and the creator's previous success on Kickstarter.
+The project category (film and video , music , art , technology etc). The amount requested (How much money does this project need).
+The campaign duration (How much time does the project take per day?).
+The currency used (dollars or euro or pound).
+The time of year (The right time of year for a successful project).
+The launching country. 
+The number of contributors and the creator's previous success on Kickstarter.
 
 
 4)Objectives of the project
